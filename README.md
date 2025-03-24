@@ -13,3 +13,7 @@ Bubble Sort
 Quick Sort
 Merge Sort
 Interactive Visualization: The bars change color to indicate comparisons and sorted elements during the sorting process.
+
+You can have a look -:
+
+https://plum-ginelle-59.tiiny.site/?mode=suggestions
